@@ -20,5 +20,25 @@ padding: 24px;
  .cabecalho_lista_ite{
     display: inline-block;
     margin: 0 16px;
-    font-size: ;
+    font: size 24px;;
  }
+
+ .escola image{
+   width: 25%;
+ }
+ .escola{
+   background-image: repeating-linear-gradient()
+   color;white
+   display;flex;
+   justify-content: center;
+   align-items: center;
+   align-items: center;
+   padding: 24px 0;
+ }
+.escola-div-conteudo{ 
+   width: 35%;
+}
+
+.escola-titulo{ 
+
+}
