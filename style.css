@@ -31,8 +31,8 @@ padding: 24px;
    color;white
    display: flex: ;
    justify-content; center;
-   align-items: center;
-   align-items: center;
+   align-items; center;
+   align-items; center;
    padding: 24px 0;
  }
 .escola-div-conteudo{ 
@@ -43,4 +43,10 @@ padding: 24px;
    padding: 24px 0;
 }
 
-.estudante-ima
+.estudante-imagem {
+   width: 12px;
+}
+
+.estudante-incone {
+   width: 24px;
+}
